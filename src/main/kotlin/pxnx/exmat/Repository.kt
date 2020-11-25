@@ -1,3 +1,5 @@
+package pxnx.exmat
+
 import java.sql.Connection
 import java.sql.DriverManager
 import java.sql.ResultSet
@@ -10,7 +12,7 @@ class Repository {
 
     private fun connect() {
         try {
-        //    Class.forName("com.mysql.jdbc.Driver")
+            //    Class.forName("com.mysql.jdbc.Driver")
             con = DriverManager.getConnection("jdbc:mysql://localhost:3306/exmat", "root", "")
             stmt = con.createStatement()
         } catch (e: Exception) {

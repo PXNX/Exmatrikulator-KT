@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Exmatrikulator-KT:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Exmatrikulator_KT_jar</output-path>
+    <root id="archive" name="Exmatrikulator-KT.jar">
+      <element id="module-output" name="Exmatrikulator-KT.main" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.4.20/9be77b243a362b745e365f286627b8724337009c/kotlin-stdlib-1.4.20.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.4.20/c6761d7805b5312302f2bbd78cda68c976ce0c70/kotlin-stdlib-common-1.4.20.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/mysql/mysql-connector-java/8.0.22/ec8bfce16c8bd18d6cb598b1147aa145be1408f/mysql-connector-java-8.0.22.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.4.20/9de2c79e95d4b4699a455e88ba285a95352e0bea/kotlin-stdlib-jdk7-1.4.20.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java/3.11.4/7ec0925cc3aef0335bbc7d57edfd42b0f86f8267/protobuf-java-3.11.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.4.20/756521338269950c2a276f1abe6fef8e1a5e5528/kotlin-stdlib-jdk8-1.4.20.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

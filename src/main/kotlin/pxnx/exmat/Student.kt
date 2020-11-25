@@ -1,3 +1,5 @@
+package pxnx.exmat
+
 class Student {
     var matnr = 0
     var name = ""

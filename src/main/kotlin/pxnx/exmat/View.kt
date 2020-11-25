@@ -1,8 +1,9 @@
+package pxnx.exmat
+
 import java.awt.Dimension
 import java.awt.GridLayout
 import java.awt.Toolkit
 import java.awt.event.ActionListener
-import javax.swing.ImageIcon
 import javax.swing.JButton
 import javax.swing.JDialog
 import javax.swing.JFrame

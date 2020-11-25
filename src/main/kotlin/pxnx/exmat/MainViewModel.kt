@@ -1,3 +1,5 @@
+package pxnx.exmat
+
 class MainViewModel {
 
     var repo = Repository()
